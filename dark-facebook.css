@@ -9,10 +9,10 @@
 /******************* Body ********************/
 * {
 	background-color: #050505 !important;
-	color: #ddd !important;
+	color: #10e0f0 !important;
 }
 span, div, ul, li {
-	color: #133783 !important;
+	color: #10e0f0 !important;
 }
 .clearfix, .coverBorder, a > div, .stage, .stage *, .fbPhotosPhotoTagboxes,
 .fbPhotosPhotoTagboxes *, .fbTimelineNavigationWrapper .tab .frame,
@@ -23,7 +23,8 @@ span, div, ul, li {
 
 /* Links */
 a {
-	color: #133783 !important;
+	color: #3ff !important;
+	font-weight: bold;
 }
 a:hover {
 	background-color: #444 !important;
