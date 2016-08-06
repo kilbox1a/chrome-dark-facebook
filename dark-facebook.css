@@ -8,11 +8,11 @@
 
 /******************* Body ********************/
 * {
-	background-color: #050505 !important;
-	color: #10e0f0 !important;
+	background-color: #4c4c4c !important;
+	color: #FFFFFF !important;
 }
 span, div, ul, li {
-	color: #10e0f0 !important;
+	color: #FFFFFF !important;
 }
 .clearfix, .coverBorder, a > div, .stage, .stage *, .fbPhotosPhotoTagboxes,
 .fbPhotosPhotoTagboxes *, .fbTimelineNavigationWrapper .tab .frame,
